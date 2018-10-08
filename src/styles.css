@@ -1,0 +1,10 @@
+
+.col {
+    padding: 16px;
+    border: black;
+}
+
+.faces {
+    size: 50px;
+    display: hidden;
+}
